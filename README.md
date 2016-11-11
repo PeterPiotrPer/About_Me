@@ -1,2 +1,2 @@
 # About_Me
-The first shot at combining HTML, CSS, &amp; JS.
+Haven't used GitHub yet. Learning Linux and cybersecurity currently.
